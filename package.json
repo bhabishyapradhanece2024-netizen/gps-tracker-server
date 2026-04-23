@@ -1,0 +1,12 @@
+{
+  "name": "gps-tracker-server",
+  "version": "1.0.0",
+  "description": "GPS tracker server for Immense Sunrise V8 device",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
